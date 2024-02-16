@@ -1,0 +1,1 @@
+Quand rendre implicite une information explicite

@@ -1,0 +1,1 @@
+Qu’est-ce qu’une préposition de possession et comment peut-on traduire les phrases qui l’emploie ?

@@ -1,0 +1,1 @@
+Que signifie le mot synecdoque ?

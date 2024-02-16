@@ -1,0 +1,1 @@
+Comment peut-on traduire les clauses d’exclusion

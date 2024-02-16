@@ -1,0 +1,55 @@
+{
+  "name": "vs-dcs",
+  "displayName": "vs-dcs",
+  "description": "Integration of DCS and vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+  ],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "vs-dcs.get-dcs",
+        "title": "Get Resource from Catalog"
+      },
+      {
+        "command": "vs-dcs.ingest-dcs",
+        "title": "Ingest Resources"
+      },
+      {
+        "command": "vs-dcs.ping-gpt-server",
+        "title": "Start/Restart PrivateGPT Server"
+      },
+      {
+        "command": "vs-dcs.post-gpt-client",
+        "title": "Show PrivateGPT client"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.6",
+    "@types/node": "18.x",
+    "@types/vscode": "^1.85.0",
+    "@vscode/test-cli": "^0.0.4",
+    "@vscode/test-electron": "^2.3.8",
+    "eslint": "^8.56.0",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "decompress": "^4.2.1",
+    "https": "^1.0.0",
+    "jq": "^1.7.2",
+    "unzip": "^0.1.11"
+  }
+}

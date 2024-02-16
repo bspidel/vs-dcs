@@ -1,0 +1,1 @@
+Que sont les informations d’arrière-plan, et comment peut-on démontrer qu’une certaine information est une information d’arrière-plan ?

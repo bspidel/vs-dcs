@@ -1,0 +1,1 @@
+Lorsque les événements ne sont pas répertoriés dans l'ordre où ils se sont passés, comment puis-je les traduire ?

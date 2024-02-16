@@ -1,0 +1,1 @@
+Que sont les questions rhétoriques et comment peut-on les traduire ?

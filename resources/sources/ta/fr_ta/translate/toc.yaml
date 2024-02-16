@@ -1,0 +1,400 @@
+title: "Le Manuel de traduction"
+sections:
+  - title: "Introduction"
+    sections:
+      - title: "Introduction au manuel de traduction"
+        link: translate-manual
+      - title: "Mots importants à connaître‎"
+        link: translate-terms
+      - title: "Qu’est-ce que la traduction ?"
+        link: translate-whatis
+      - title: "En savoir plus sur la traduction"
+        link: translate-more
+      - title: "Comment diriger votre traduction de la Bible"
+        link: translate-aim
+  - title: "Définition d’une bonne traduction"
+    sections:
+      - title: "Les qualités d’une bonne traduction"
+        link: guidelines-intro
+        sections:
+          - title: "Faire des traductions claires"
+            link: guidelines-clear
+          - title: "Créer des traductions naturelles"
+            link: guidelines-natural
+          - title: "Faire des traductions précises"
+            link: guidelines-accurate
+          - title: "Créer des traductions approuvées par l'Église"
+            link: guidelines-church-approved
+          - title: "Créer des traductions fidèles"
+            link: guidelines-faithful
+            sections:
+              - title: "Fils de Dieu et Dieu le Père"
+                link: guidelines-sonofgod
+              - title: "Traduction des termes Fils et  Père"
+                link: guidelines-sonofgodprinciples
+          - title: "Créer des traductions faisant autorité"
+            link: guidelines-authoritative
+          - title: "Créer des traductions historiques"
+            link: guidelines-historical
+          - title: "Créer des traductions égales"
+            link: guidelines-equal
+          - title: "Créer des traductions collaboratives"
+            link: guidelines-collaborative
+          - title: "Créer des traductions continuelles"
+            link: guidelines-ongoing
+  - title: "traduction basée sur le sens"
+    sections:
+      - title: "Le processus de traduction"
+        link: translate-process
+        sections:
+          - title: "Découvrir la signification du texte"
+            link: translate-discover
+          - title: "Raconter de nouveau le sens"
+            link: translate-retell
+      - title: "La forme et le sens"
+        link: translate-fandm
+        sections:
+          - title: "L’importance de la forme"
+            link: translate-form
+          - title: "Niveaux de signification"
+            link: translate-levels
+      - title: "Traductions littérales"
+        link: translate-literal
+        sections:
+          - title: "Substitution de termes, mot pour mot"
+            link: translate-wforw
+          - title: "Problèmes avec les traductions littérales"
+            link: translate-problem
+      - title: "Traductions reposées sur le sens"
+        link: translate-dynamic
+        sections:
+          - title: "Traduire pour obtenir le sens"
+            link: translate-tform
+  - title: "Avant de traduire"
+    sections:
+      - title: "Choisir une équipe de traduction"
+        link: choose-team
+        sections:
+          - title: "Qualifications des traducteurs"
+            link: qualifications
+      - title: "Choisissez un style de traduction"
+        link: choose-style
+      - title: "Choisir ce qu’il faut traduire"
+        link: translation-difficulty
+      - title: "Le choix d’un bon texte source"
+        link: translate-source-text
+        sections:
+          - title: "Droits d’auteur, licences et textes sources"
+            link: translate-source-licensing
+          - title: "Textes sources et numéro de version"
+            link: translate-source-version
+      - title: "Décisions concernant la rédaction de votre langue"
+        link: writing-decisions
+        sections:
+          - title: "Alphabet/Orthographe"
+            link: translate-alphabet
+          - title: "Développement de l’alphabet"
+            link: translate-alphabet2
+      - title: "Formats de fichier"
+        link: file-formats
+  - title: "Comment commencer à traduire"
+    sections:
+      - title: "Première ébauche"
+        link: first-draft
+      - title: "Aides à la traduction"
+        link: translate-help
+  - title: "Le texte biblique"
+    sections:
+      - title: "Les langues originales et les langues sources"
+        link: translate-original
+      - title: "Manuscrits autographes"
+        link: translate-manuscripts
+      - title: "Structure de la Bible"
+        link: translate-bibleorg
+      - title: "les numéro de chapitres et de versets"
+        link: translate-chapverse
+      - title: "Signaux de formatage du Texte Littéral en Langue Gateway (GLT) et du Texte Amplifié en Langue Gateway (GST)"
+        link: translate-formatsignals
+      - title: "Comment utiliser le GLT et le GST lors de la traduction de la Bible"
+        link: translate-useultust
+  - title: "Utilisez les aides à la traduction pendant la traduction"
+    sections:
+      - title: "Liens dans les notes de traduction"
+        link: resources-links
+      - title: "Utilisation des notes de traduction du GLT"
+        link: resources-types
+        sections:
+          - title: "Déclaration de connexion et informations générales dans les notes"
+            link: resources-connect
+          - title: "Notes avec définitions"
+            link: resources-def
+          - title: "Notes qui expliquent"
+            link: resources-eplain
+          - title: "Notes avec synonymes et phrases équivalentes"
+            link: resources-synequi
+          - title: "Notes avec traductions alternatives (AT)"
+            link: resources-alter
+          - title: "Notes qui clarifient la traduction du GST"
+            link: resources-clarify
+          - title: "Notes qui ont d’autres sens"
+            link: resources-alterm
+          - title: "Notes qui ont des significations probables ou possibles"
+            link: resources-porp
+          - title: "Notes qui identifient les figures de style"
+            link: resources-fofs
+          - title: "Remarques qui identifient les citations indirectes et directes"
+            link: resources-iordquote
+          - title: "Notes pour les phrases longues du GLT"
+            link: resources-long
+          - title: "Utilisation des mots de traduction du GLT"
+            link: resources-words
+          - title: "Utilisation des questions de traduction du GLT"
+            link: resources-questions
+  - title: "Modules de formation « juste à temps »"
+    sections:
+      - title: "problèmes de traduction"
+        sections:
+          - title: "Variantes textuelles"
+            link: translate-textvariants
+          - title: "Pont de versets"
+            link: translate-versebridge
+      - title: "Styles d’écriture (discours)"
+        sections:
+          - title: "Styles d’écriture"
+            link: writing-intro
+          - title: "Information générale"
+            link: writing-background
+          - title: "La fin de l’histoire"
+            link: writing-endofstory
+          - title: "Situations hypothétiques"
+            link: figs-hypo
+          - title: "Introduction d’un nouvel événement"
+            link: writing-newevent
+          - title: "Présentation de nouveaux et d’anciens participants"
+            link: writing-participants
+          - title: "Paraboles"
+            link: figs-parables
+          - title: "Poésie"
+            link: writing-poetry
+          - title: "Proverbes"
+            link: writing-proverbs
+          - title: "Le langage symbolique"
+            link: writing-symlanguage
+          - title: "Prophétie symbolique"
+            link: writing-apocalypticwriting
+      - title: "Les phrases"
+        sections:
+          - title: "La structure des phrases"
+            link: figs-sentences
+          - title: "La structure des informations"
+            link: figs-infostructure
+          - title: "Types de phrases"
+            link: figs-sentencetypes
+            sections:
+              - title: "Déclarations – Autres utilisations"
+                link: figs-declarative
+              - title: "Phrases impératives – Autres utilisations"
+                link: figs-imperative
+              - title: "Exclamations"
+                link: figs-exclamations
+          - title: "Les mots et les phrases de liaison"
+            link: grammar-connect-words-phrases
+            sections:
+              - title: "Proposition Séquentielle"
+                link: grammar-connect-time-sequential
+              - title: "Relation temporelle simultanée"
+                link: grammar-connect-time-simultaneous
+              - title: "Renseignements généraux"
+                link: grammar-connect-time-background
+              - title: "Relation avec un objectif (but)"
+                link: grammar-connect-logic-goal
+              - title: "Relation entre raison et résultat"
+                link: grammar-connect-logic-result
+              - title: "Relation de contraste"
+                link: grammar-connect-logic-contrast
+              - title: "Conditions factuelles"
+                link: grammar-connect-condition-fact
+              - title: "Conditions contraires aux faits"
+                link: grammar-connect-condition-contrary
+              - title: "Condition hypothétique"
+                link: grammar-connect-condition-hypothetical
+              - title: "propositions d’exception"
+                link: grammar-connect-exceptions
+      - title: "Grammaire"
+        sections:
+          - title: "sujets de grammaire"
+            link: figs-grammar
+          - title: "Les noms abstraits"
+            link: figs-abstractnouns
+          - title: "L’actif ou le passif"
+            link: figs-activepassive
+          - title: "Distinguer contre informer ou rappeler"
+            link: figs-distinguish
+          - title: "Double Negation"
+            link: figs-doublenegatives
+          - title: "L’ellipse"
+            link: figs-ellipsis
+          - title: "L’usage de tu et vous"
+            link: figs-you
+          - title: "Emplois particuliers de ‘vous’ — double pronom ou pluriel"
+            link: figs-youdual
+          - title: "Formes de ‘vous’ – Singulier"
+            link: figs-yousingular
+          - title: "Expressions nominales génériques"
+            link: figs-genericnoun
+          - title: "Aller et venir"
+            link: figs-go
+          - title: "L’adjectif nominal"
+            link: figs-nominaladj
+          - title: "L’ordre des événements"
+            link: figs-events
+          - title: "Les parties du discours"
+            link: figs-partsofspeech
+          - title: "La possession"
+            link: figs-possession
+          - title: "Les verbes"
+            link: figs-verbs
+          - title: "Quand les mots masculins englobent les femmes"
+            link: figs-gendernotations
+          - title: "l’ordre des mots"
+            sections:
+              - title: "Word Order – General"
+                link: figs-order
+              - title: "Word Order – Hebrew"
+                link: figs-orderHeb
+              - title: "Word Order – Greek"
+                link: figs-orderGrk
+      - title: "Quotes"
+        sections:
+          - title: "Quotations and Quote Margins"
+            link: writing-quotations
+          - title: "Direct and Indirect Quotations"
+            link: figs-quotations
+          - title: "Quote Markings"
+            link: figs-quotemarks
+          - title: "Quotes within Quotes"
+            link: figs-quotesinquotes
+      - title: "Pronouns"
+        sections:
+          - title: "Pronouns"
+            link: figs-pronouns
+          - title: "First, Second or Third Person"
+            link: figs-123person
+          - title: "Exclusive and Inclusive ‘We’"
+            link: figs-exclusive
+          - title: "Forms of ‘You’ – Formal or Informal"
+            link: figs-youformal
+          - title: "Forms of ‘You’ – Singular to a Crowd"
+            link: figs-youcrowd
+          - title: "Reflexive Pronouns"
+            link: figs-rpronouns
+          - title: "Pronouns – When to Use Them"
+            link: writing-pronouns
+      - title: "Unknowns"
+        sections:
+          - title: "Translate Unknowns"
+            link: translate-unknown
+          - title: "Copy or Borrow Words"
+            link: translate-transliterate
+          - title: "How to Translate Names"
+            link: translate-names
+          - title: "Assumed Knowledge and Implicit Information"
+            link: figs-explicit
+          - title: "Making Assumed Knowledge and Implicit Information Explicit"
+            link: figs-explicitinfo
+          - title: "When to Keep Information Implicit"
+            link: figs-extrainfo
+          - title: "Biblical Distance"
+            link: translate-bdistance
+          - title: "Biblical Volume"
+            link: translate-bvolume
+          - title: "Biblical Weight"
+            link: translate-bweight
+          - title: "Biblical Money"
+            link: translate-bmoney
+          - title: "Hebrew Months"
+            link: translate-hebrewmonths
+          - title: "Numbers"
+            link: translate-numbers
+          - title: "Ordinal Numbers"
+            link: translate-ordinal
+          - title: "Fractions"
+            link: translate-fraction
+          - title: "Symbolic Action"
+            link: translate-symaction
+      - title: "Figures of Speech"
+        sections:
+          - title: "Figures of Speech"
+            link: figs-intro
+          - title: "Apostrophe"
+            link: figs-apostrophe
+          - title: "Aside"
+            link: figs-aside
+          - title: "Doublet"
+            link: figs-doublet
+          - title: "Euphemism"
+            link: figs-euphemism
+          - title: "Hendiadys"
+            link: figs-hendiadys
+          - title: "Hyperbole"
+            link: figs-hyperbole
+          - title: "Idiom"
+            link: figs-idiom
+          - title: "Irony"
+            link: figs-irony
+          - title: "Litany"
+            link: figs-litany
+          - title: "Litotes"
+            link: figs-litotes
+          - title: "Merism"
+            link: figs-merism
+          - title: "Metaphor"
+            link: figs-metaphor
+          - title: "Metonymy"
+            link: figs-metonymy
+          - title: "Parallelism"
+            link: figs-parallelism
+          - title: "Parallelism with the Same Meaning"
+            link: figs-synonparallelism
+          - title: "Personification"
+            link: figs-personification
+          - title: "Predictive Past"
+            link: figs-pastforfuture
+          - title: "Rhetorical Question"
+            link: figs-rquestion
+          - title: "Simile"
+            link: figs-simile
+          - title: "Synecdoche"
+            link: figs-synecdoche
+      - title: "Biblical Imagery"
+        sections:
+          - title: "Biblical Imagery"
+            link: biblicalimageryta
+          - title: "Biblical Imagery – Common Patterns"
+            link: bita-part1
+          - title: "Biblical Imagery – Common Metonymies"
+            link: bita-part2
+          - title: "Biblical Imagery – Simple Metaphors"
+            link: figs-simetaphor
+          - title: "Biblical Imagery – Extended Metaphors"
+            link: figs-exmetaphor
+          - title: "Biblical Imagery – Complex Metaphors"
+            link: figs-cometaphor
+          - title: "Biblical Imagery – Common Metaphors in the Bible"
+            sections:
+              - title: "Biblical Imagery – Body Parts and Human Qualities"
+                link: bita-hq
+              - title: "Biblical Imagery – Human Behavior"
+                link: bita-humanbehavior
+              - title: "Biblical Imagery – Natural Phenomena"
+                link: bita-phenom
+              - title: "Biblical Imagery – Man-made Objects"
+                link: bita-manmade
+              - title: "Biblical Imagery – Farming"
+                link: bita-farming
+              - title: "Biblical Imagery – Animals"
+                link: bita-animals
+              - title: "Biblical Imagery – Plants"
+                link: bita-plants
+          - title: "Biblical Imagery – Cultural Models"
+            link: bita-part3

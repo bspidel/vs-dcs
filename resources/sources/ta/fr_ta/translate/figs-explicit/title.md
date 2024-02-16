@@ -1,0 +1,1 @@
+Connaissance supposée et information implicite

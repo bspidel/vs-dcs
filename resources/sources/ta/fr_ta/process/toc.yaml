@@ -1,0 +1,41 @@
+title: "Manuel des procédures"
+sections:
+  - title: "Étape 1 : Comment démarrer"
+    sections:
+      - title: "Introduction au Manuel des procédés"
+        link: process-manual
+
+  - title: "Étape 2 : La mise sur pied d'une équipe de traduction"
+    sections:
+      - title: "La mise sur pied d'une équipe de traduction"
+        link: setup-team
+
+  - title: "Étape 3 : La traduction"
+    sections:
+      - title: "Formation avant de faire de la traduction"
+        link: pretranslation-training
+      - title: "Choisir une plateforme de traduction"
+        link: platforms
+      - title: "Configuration de traductionStudio"
+        link: setup-ts
+      - title: "Aperçu de la traduction"
+        link: translation-overview
+
+  - title: "Step 4: Verification"
+    sections:
+      - title: "Formation avant le début de la vérification"
+        link: prechecking-training
+      - title: "Configuration de translationCore®"
+        link: setup-tc
+
+  - title: "Step 5: Publication"
+    sections:
+      - title: "Introduction à la publication"
+        link: intro-publishing
+
+  - title: "Step 6: Distribution"
+    sections:
+      - title: "Introduction à la distribution"
+        link: intro-share
+      - title: Comment partager du contenu?"
+        link: share-content

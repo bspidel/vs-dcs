@@ -1,0 +1,52 @@
+dublin_core:
+  type: 'book'
+  conformsto: 'rc0.2'
+  format: 'text/markdown'
+  identifier: 'obs'
+  title: 'OPEN BIBLE STORIES'
+  subject: 'Open Bible Stories'
+  description: 'OPEN BIBLE STORIES'
+  language:
+    identifier: 'fr'
+    title: 'français, langue française'
+    direction: 'ltr'
+  source:
+    -
+      identifier: 'obs'
+      language: 'en'
+      version: '5'
+  rights: 'CC BY-SA 4.0'
+  creator: 'Door43 World Missions Community'
+  contributor:
+    - "Augustin Gohoungo (Benin)"
+    - "Ayawa Agbenouvor (Benin)"
+    - "Ed Bussard (Chad)"
+    - "Emmanuel Dossa Luc Dosso (Benin)"
+    - "Fran Hoover (US)"
+    - "Joel Abdou Davies (Niger)"
+    - "Mabeline Lucrene Zohoun-Vgnon (Benin)"
+    - "Matthieu Maiidaji Sidou (Niger)"
+    - "Ousmane Ayouba (Niger)"
+    - "Tounkara Maiyaldou (Niger)"
+  relation: []
+  publisher: 'Door43'
+  issued: '2019-06-12'
+  modified: '2019-06-12'
+  version: '5.3'
+  comment: ''
+checking:
+  checking_entity:
+    - "Pastor Ahoa N'dah Ferdinand"
+    - "Apostle Akakpo Adote"
+    - "Pastor Andre Thera"
+    - "Josue Mouiche"
+    - "Rev. Peter Tapoayi"
+  checking_level: '3'
+projects:
+  -
+    categories: []
+    identifier: obs
+    path: ./content
+    sort: 0
+    title: 'OPEN BIBLE STORIES'
+    versification: ufw

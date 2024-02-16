@@ -1,0 +1,1 @@
+Que sont les noms abstraits et comment dois-je m’occuper de ceux-ci dans ma traduction ?

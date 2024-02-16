@@ -1,0 +1,1 @@
+La relation temporelle séquentielle

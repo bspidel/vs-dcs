@@ -1,0 +1,1 @@
+Comment peut-on traduire des clauses qui donnent des informations générales ?

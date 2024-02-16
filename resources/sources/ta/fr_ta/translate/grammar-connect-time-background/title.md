@@ -1,0 +1,1 @@
+Les clauses donnant des informations générales

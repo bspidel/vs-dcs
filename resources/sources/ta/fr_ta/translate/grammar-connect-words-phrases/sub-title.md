@@ -1,0 +1,1 @@
+Comment les conjonctions fonctionnent-elles pour relier des parties d’un texte de façons différentes ?

@@ -1,0 +1,1 @@
+Comment puis-je traduire des clauses avec une relation temporelle simultanée ?

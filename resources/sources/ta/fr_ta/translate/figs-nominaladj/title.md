@@ -1,0 +1,1 @@
+L’adjectif Nominal

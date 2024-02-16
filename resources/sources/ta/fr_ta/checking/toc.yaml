@@ -1,0 +1,89 @@
+title: "Table des matières"
+sections:
+  - title: "Introduction à la vérification"
+    sections:
+      - title: "Introduction à la vérification des traductions"
+        link: intro-checking
+      - title: "Introduction au manuel de contrôle"
+        link: intro-check
+      - title: "Le but de la vérification"
+        link: goal-checking
+      - title: "Vérification de l'autorité et du processus"
+        link: authority-process
+  - title: "Les étapes de la vérification"
+    sections:
+      - title: "Vérification du partenaire oral"
+        link: peer-check
+      - title: "Team Oral Chunk Check"
+        link: team-oral-chunk-check
+      - title: "translationWords Vérifier dans tC"
+        link: important-term-check
+      - title: "traductionNotes Vérifier en tC"
+        link: trans-note-check
+      - title: "Vérification linguistique par la communauté"
+        sections:
+          - title: "Vérification de la clarté et du naturel de la traduction"
+            link: language-community-check
+          - title: "Autres méthodes"
+            link: other-methods
+          - title: "Traduction claire"
+            link: clear
+          - title: "Traduction naturelle"
+            link: natural
+          - title: "Acceptable Style"
+            link: acceptable
+          - title: "Questions d'évaluation de la communauté linguistique"
+            link: community-evaluation
+      - title: "Vérification par les dirigeants de l'église"
+        sections:
+          - title: "Vérification de l'exactitude par les dirigeants de l'église"
+            link: church-leader-check
+          - title: "Vérification de l'exactitude de la traduction"
+            link: accuracy-check
+      - title: "Affirmation de l'exactitude et de l'acceptation de la communauté"
+        link: good
+      - title: "Contrôle de l'alignement"
+        link: alignment-tool
+      - title: "Vérification de la qualité de la traduction"
+        sections:
+          - title: "Étapes pour les contrôleurs de qualité"
+            link: vol2-steps
+          - title: "Types d'éléments à vérifier"
+            link: vol2-things-to-check
+          - title: "Questions pour les contrôleurs de qualité"
+            link: level3-questions
+          - title: "Formulaire d'évaluation du contrôleur de la qualité"
+            link: level3-approval
+      - title: "La rétro-traduction"
+        link: vol2-backtranslation
+        sections:
+          - title: "Le but de la rétro-traduction"
+            link: vol2-backtranslation-purpose
+          - title: "Le traducteur du dos"
+            link: vol2-backtranslation-who
+          - title: "Types de rétro-traductions"
+            link: vol2-backtranslation-kinds
+          - title: "Types de traductions écrites en retour"
+            link: vol2-backtranslation-written
+          - title: "Directives pour la création d'une bonne rétro-traduction"
+            link: vol2-backtranslation-guidelines
+  - title: "Mise en forme et publication"
+    sections:
+      - title: "Comment vérifier le bon formatage"
+        link: formatting
+      - title: "Alphabet approprié"
+        link: alphabet
+      - title: "Une orthographe cohérente"
+        link: spelling
+      - title: "Une ponctuation cohérente"
+        link: punctuation
+      - title: "Traduction complète"
+        link: complete
+      - title: "Versification complète"
+        link: verses
+      - title: "Titres des sections"
+        link: headings
+      - title: "Publication"
+        link: publishing
+      - title: "Grille d'auto-évaluation"
+        link: self-assessment

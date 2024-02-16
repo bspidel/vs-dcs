@@ -1,0 +1,10 @@
+{
+  "dirTree.ignore": [
+    
+    ".git/",
+    "node_modules/",
+    ".github/",
+    "/.eslintrc.json",
+    "/package-lock.json"
+  ]
+}

@@ -1,0 +1,1 @@
+Qu'est-ce qu'une métaphore et comment puis-je traduire une phrase qui en a une ?

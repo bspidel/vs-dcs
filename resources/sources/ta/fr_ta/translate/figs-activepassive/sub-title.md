@@ -1,0 +1,1 @@
+Que signifient l'actif et le passif et comment traduire les phrases passives ?

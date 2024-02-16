@@ -1,0 +1,1 @@
+Qu'est-ce que le langage symbolique et comment faut-il le traduire ?

@@ -1,0 +1,12 @@
+projects:
+- identifier: 'obs'
+  version: '5.3'
+  media:
+  - identifier: 'pdf'
+    version: '{latest}'
+    contributor: []
+    url: 'https://cdn.door43.org/fr/Door43-Catalog/fr_obs/v{latest}/pdf/fr_obs_v{latest}.pdf'
+  - identifier: 'door43'
+    version: '{latest}'
+    contributor: []
+    url: 'https://door43.org/u/Door43-Catalog/fr_obs/'
