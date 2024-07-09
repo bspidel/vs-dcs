@@ -10,7 +10,7 @@ It does this by:
 - Selecting a document maturity stage: latest, prod or preprod
 - The extension constructs a query to get the Repo containing the relevant Resource
 - It queries a zip file of all the resource files of the selected type.
-- It extracts the resources into a local directory: __./resources/sources/<resourceType>/\<language\>/\<files\>__
+- It extracts the resources into a local directory: __./resources/sources/\<resourceType\>/\<language\>/\<files\>__
 - The extracted files are in a structure as if the resource were developed locally in a repository.
 - Care is taken to ensure that resource types in different languages do not "clobber" each other.
 
